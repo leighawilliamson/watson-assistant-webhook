@@ -1,0 +1,3 @@
+applications:
+- name: watson-webhook-demo
+  memory: 128M
